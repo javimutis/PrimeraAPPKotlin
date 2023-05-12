@@ -16,7 +16,7 @@ import com.example.eventoboton.databinding.ActivityTerceraActividadBinding
 private lateinit var binding: ActivityTerceraActividadBinding
 var requestPermissionCode = 2
 var requestPermissionCamera = 3
-
+//comentario prueba
 class TerceraActividad : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
